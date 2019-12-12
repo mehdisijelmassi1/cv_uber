@@ -45,11 +45,12 @@ h4 {
   margin: auto;
 }
 
-#logo {
+#logo-uber {
   position: relative;
   bottom: 17px;
   left: 50px;
   float: right;
+  border-radius: 50%;
 }
 
 
